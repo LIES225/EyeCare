@@ -19,4 +19,4 @@ Skill 只读取仓库内的合成资料。要服务真实机构，需要另行�
 
 ## 项目来源
 
-本仓库只发布 EyeCare 场景文件，不复制 Craft Agents 应用源码。Craft Agents 由 Craft Docs Ltd. 开发，原项目采用 Apache 2.0 许可证；本项目与其官方团队没有隶属或背书关系。详见[原项目](https://github.com/craft-ai-agents/craft-agents-oss)及其许可证和商标说明。
+本仓库只发布 EyeCare 场景文件，不复制 Craft Agents 应用源码。应用源码另见[个人 fork](https://github.com/LIES225/EyeCare-Agent-Base)，其历史保留了[原项目](https://github.com/craft-ai-agents/craft-agents-oss)来源。Craft Agents 由 Craft Docs Ltd. 开发，原项目采用 Apache 2.0 许可证；本项目与其官方团队没有隶属或背书关系。
